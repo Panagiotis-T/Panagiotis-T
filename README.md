@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Panagiotis-T
-- 👀 I’m interested in implementing data science and operations research application in energy related applications.
+- 👀 I’m interested in implementing data analystics in energy-related applications.
 - 🌱 I’m currently trying to enrich my knowledge in machine learning and operations research.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on ...
